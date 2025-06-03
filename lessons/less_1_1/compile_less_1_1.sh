@@ -1,0 +1,1 @@
+g++ less_1_1.cpp -o less_1_1
